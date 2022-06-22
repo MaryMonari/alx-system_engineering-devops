@@ -1,2 +1,2 @@
 #!/bin/bash
-the path is '$pwd'
+pwd == print working directory 
